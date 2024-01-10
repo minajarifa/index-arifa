@@ -1,0 +1,31 @@
+body{
+    color:blue;
+    font-size: 30px;
+}
+
+
+
+.i1, .i2, .i3, .i4{
+    width: 50%;
+    height: 50%;
+    float:right;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    background-color: green;
+    color: red;
+    text-align: center;
+}
+.img{
+    margin: 10px solid ;
+}
+.visit{
+    margin-top: 50px;
+}
+/*--------------------
+list project
+---------------------*/
+.container{
+    background-color: white;
+}
